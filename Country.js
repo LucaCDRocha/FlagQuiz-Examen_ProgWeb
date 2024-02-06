@@ -6,7 +6,6 @@ class Country {
 		this.#data = data;
 		this.#possibleResponds = this.#setPossibleResponds();
 		this.#flag = this.#generateFlag();
-		console.log(data);
 	}
 
 	#setPossibleResponds() {

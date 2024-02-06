@@ -1,5 +1,4 @@
 import { shuffle } from "lodash";
-import Country from "./Country";
 import Game from "./Game";
 
 async function getCountryData() {
